@@ -6,9 +6,9 @@ To Heuristic Evaluation of an Existing Website or App.
 
 ## Algorithm:
 
-1.Select and Compare 2–3 Competitor Apps/Websites 
-2.Perform Heuristic Evaluation 
-3.Analyze and Document Findings 
+1.Select and Compare 2–3 Competitor Apps/Websites<br>
+2.Perform Heuristic Evaluation<br>
+3.Analyze and Document Findings<br>
 4.Propose and Apply Improvements
 
 ## Output:
